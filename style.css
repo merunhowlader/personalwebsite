@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    color: black;
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+.pink-highlight{
+    font-size: 70px;
+    color:#d60455;
+    font-weight: 800;
+    
+
+}
+.link-button{
+    text-decoration: none;
+    
+    background-image: linear-gradient(60deg, lightSalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.half-div{
+    width: 30%;
+    float: left;
+    margin: 1%;
+    padding-left: 15%;
+    padding-top: 15%;
+}
+.half-div img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.top-banner{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.dream{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.div-image{
+    width: 20%;
+    float: left;
+    height: 50px;
+    padding-left: 10%;
+    align-items: center;
+}
+.div-image img{
+    width: 100%;
+}
+.latest-work{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.footer-div{
+    text-align: center;
+}
+.footer-div h3{
+    color: dimgray;
+}
+.email-add{
+    background-color: #d60455;
+    width: 40%;
+    height: 120px;
+    margin-left: 30%;
+    border-radius: 4%;
+    color: white;
+}
+.email-add p{
+    color: white !important;
+}
+.footer{
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
